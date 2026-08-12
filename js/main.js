@@ -8,3 +8,8 @@ const toggleBtn = document.querySelector("#theme-toggle");
 toggleBtn.addEventListener("click", (e) => {
   document.body.classList.toggle("dark");
 });
+
+const validation = function () {
+  const nameInput = document.getElementById("name");
+  const emailInput = document.getElementById("email");
+};
