@@ -12,4 +12,5 @@ toggleBtn.addEventListener("click", (e) => {
 const validation = function () {
   const nameInput = document.getElementById("name");
   const emailInput = document.getElementById("email");
+  const passwordInput = document.getElementById("password");
 };
